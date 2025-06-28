@@ -1,6 +1,5 @@
 ## hello!
-## - 🌱 i’m currently learning the very basics for coding
-## ⚡ fun fact: snoopy lover 😼
+
 
 <!--
 **luizaaaa2/luizaaaa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
